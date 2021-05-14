@@ -44,15 +44,3 @@ def read_genesis(filename, key):
     
     return x, y
 
-
-filename = sys.argv[1]
-key = sys.argv[2]
-(x,y)=read_genesis(filename,key)
-
-fig = plt.figure(figsize=(12, 8))
-ax = fig.add_subplot(111)
-ax.grid()
-ax.plot(x,y)
-ax.set_xlabel("Steps", size = 14)
-ax.set_ylabel("Potential Energy (kcal/mol)", size = 14)
-plt.show()
