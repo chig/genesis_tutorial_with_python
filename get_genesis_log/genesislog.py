@@ -8,7 +8,6 @@
 #
 import sys
 import re
-import matplotlib.pyplot as plt
 
 
 def read_genesis(filename, key):
