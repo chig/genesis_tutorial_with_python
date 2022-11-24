@@ -13,4 +13,4 @@ The GitHub repository is prepared for tutorial using Google Colaboratory and/or 
 
 While GENESIS can not be executed on such environment, we can learn a procedure of typical MD simulation and try little analysis.
 
-Original tutorials are in the GENESIS site;  https://www.r-ccs.riken.jp/labs/cbrt/tutorials2019/
+Original tutorials are in the GENESIS site;  https://www.r-ccs.riken.jp/labs/cbrt/tutorials2022/
