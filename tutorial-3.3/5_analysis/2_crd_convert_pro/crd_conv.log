@@ -4,7 +4,7 @@
 *                                                  *
 *           Converter of trajectory files          *
 *                                                  *
-*              Developed by RIKEN AICS             *
+*              Developed by RIKEN                  *
 *                                                  *
 ****************************************************
  
@@ -24,22 +24,27 @@ Read_Ctrl_Trajectory> Parameters of Trajectory
          md steps :      40000
      mdout period :        200
        ana period :        200
+     start step   :          1
     trajectory file 2 = ../../4_production/md2.dcd
          md steps :      40000
      mdout period :        200
        ana period :        200
+     start step   :          1
     trajectory file 3 = ../../4_production/md3.dcd
          md steps :      40000
      mdout period :        200
        ana period :        200
+     start step   :          1
     trajectory file 4 = ../../4_production/md4.dcd
          md steps :      40000
      mdout period :        200
        ana period :        200
+     start step   :          1
     trajectory file 5 = ../../4_production/md5.dcd
          md steps :      40000
      mdout period :        200
        ana period :        200
+     start step   :          1
   trj format      = DCD       
   trj type        =   COOR+BOX
  
